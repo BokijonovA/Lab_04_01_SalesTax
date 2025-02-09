@@ -5,7 +5,7 @@ public class Main {
         double taxRate = 0.05;
         double tax = price * taxRate;
         double total = price + tax;
-        System.out.println("The total price is " + total);
+        System.out.println("The total price would be " + total);
     }
 
 }
